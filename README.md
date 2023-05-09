@@ -1,54 +1,42 @@
-
-
-# Ex.No:2 Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
-
+# Ex.No:6 Build a program to create a first display screen of any search engine using Auto Complete Text View.
 
 ## AIM:
-To create Hello world Activity using all lifecycles methods to display messages using android studio.
+
+To develop a program to create a first display screen of any search engine using AutoComplete TextView in Android Studio.
 
 ## EQUIPMENTS REQUIRED:
 
-Android Studio(Min. required Artic Fox)
-
+Android Studio(Min.required Artic Fox)
 
 ## ALGORITHM:
 
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
-Step 2: Then type the Application name as HelloWorld and click Next.
+Step 2: Then type the Application name as searchengine and click Next. 
 
 Step 3: Then select the Minimum SDK as shown below and click Next.
 
 Step 4: Then select the Empty Activity and click Next. Finally click Finish.
 
-Step 5: Design layout in activity_main.xml.
+Step 5: Design layout using AutoComplete TextView in activity_main.xml.
 
-Step 6: Display message give in MainActivity file.
+Step 6: Display screen of search engine in MainActivity file.
 
 Step 7: Save and run the application.
 
-
-
-## Program:
- ```
+## PROGRAM:
+```
 /*
-Program to implement a Hello world Activity using all lifecycles methods using Android Studio .
-Developed by: 
-RegisterNumber:  
+Program to print the text “display screen of any search engine”.
+Developed by:
+Registeration Number :
 */
 ```
 
-## MainActivity.java:
+## OUTPUT
 
 
 
 
-
-## activity_main.xml:
-
-## Output:
-
-
-
-## Result:
-Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
+## RESULT
+Thus a Simple Android Application develop a program to create a first display screen of any search engine using AutoComplete TextView in Android Studio is developed and executed successfully.
